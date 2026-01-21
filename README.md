@@ -12,5 +12,5 @@ These queries will then be mapped onto a live dashboard powered by streamlit.
 - Write function to live probe for URLs to ingest newly added data from 2026-01 and onward
 - ~~Write function to clean these files on a month-by-month basis~~
 - Create aggregated parquet file
-- Write DuckDB queries to answer analytics questions
+- ~~Write DuckDB queries to answer analytics questions~~
 - Create streamlit dashboard to display findings
